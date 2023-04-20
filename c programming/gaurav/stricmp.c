@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include<string.h>
+int main()
+{
+char str1[20] = "this is stricmp";
+char str2[12] = "THIS IS STRICMP";
+int n;
+n = stricmp(str1, str2);
+if( n == 0)
+printf("The strings str1 and str2 are same ");
+else if(n == -1)
+printf("The string str1 is lesser than str2");
+else
+printf("The string str1 is greater than str2");
+return 0;
+}

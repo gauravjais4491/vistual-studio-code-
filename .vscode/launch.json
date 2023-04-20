@@ -1,0 +1,256 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "vistual studio code program_33f0179f"
+        },
+        {
+            "type": "java",
+            "name": "Launch exam",
+            "request": "launch",
+            "mainClass": "exam",
+            "projectName": "vistual studio code program_33f0179f"
+        },
+        {
+            "type": "java",
+            "name": "Launch exam",
+            "request": "launch",
+            "mainClass": "exam",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch voterid",
+            "request": "launch",
+            "mainClass": "voterid",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch increment",
+            "request": "launch",
+            "mainClass": "increment",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch CA7_LocalClass",
+            "request": "launch",
+            "mainClass": "CA7_LocalClass",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch File",
+            "request": "launch",
+            "mainClass": "File",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestOuter1",
+            "request": "launch",
+            "mainClass": "java3.TestOuter1",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch CA11_ExceptionDemo6",
+            "request": "launch",
+            "mainClass": "java9.CA11_ExceptionDemo6",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fileclass",
+            "request": "launch",
+            "mainClass": "java10.Fileclass",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch File",
+            "request": "launch",
+            "mainClass": "java10.File",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch CA7_LocalClass",
+            "request": "launch",
+            "mainClass": "java7.CA7_LocalClass",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cse_AnnonymousClass",
+            "request": "launch",
+            "mainClass": "java8.Cse_AnnonymousClass",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch CAB_AnnonymousClass",
+            "request": "launch",
+            "mainClass": "java8.CAB_AnnonymousClass",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "java4.A",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "java4.Main",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserInputDemo1",
+            "request": "launch",
+            "mainClass": "java5.UserInputDemo1",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OLA",
+            "request": "launch",
+            "mainClass": "java4.OLA",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "pwa-extensionHost"
+        },
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Attach to Remote Program",
+            "request": "attach",
+            "hostName": "<The host name or ip address of remote debuggee>",
+            "port": "<debug port of remote debuggee>"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "pwa-extensionHost"
+        },
+        {
+            "type": "java",
+            "name": "Launch MYCLASS",
+            "request": "launch",
+            "mainClass": "java1.MYCLASS",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Human",
+            "request": "launch",
+            "mainClass": "Human",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestOuter1",
+            "request": "launch",
+            "mainClass": "TestOuter1",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch MYCLASS",
+            "request": "launch",
+            "mainClass": "MYCLASS",
+            "projectName": "vistual studio code program_ed913d0"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

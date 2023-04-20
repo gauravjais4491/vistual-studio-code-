@@ -1,0 +1,21 @@
+{
+    "python.pythonPath": "/bin/python3",
+    "python.formatting.provider": "black",
+    "files.associations": {
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "java.project.sourcePaths": [
+        "java/java7",
+        "java/java4",
+        "java/java3",
+        "java/java2",
+        "java/java18",
+        "java/java17",
+        "java/java16",
+        "java/java15",
+        "java/java14",
+        "java/java1",
+        "java/java19"
+    ]
+}
